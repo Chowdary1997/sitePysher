@@ -6,7 +6,7 @@ version = open("files/version.txt").read().strip()
 long_description = open("README.md").read().strip()
 
 setup(
-    name='PyPhisher',
+    name='pyphisher.py',
     version=version,
     description='Ultimate phishing tool in python with dual tunneling, 77 templates and many more!',
     long_description=long_description,
